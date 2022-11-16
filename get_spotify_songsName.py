@@ -1,10 +1,10 @@
-import traceback
-from urllib.error import HTTPError
-import requests, bs4, sys, os, threading, logging
+import time
+import requests, bs4, sys, os, traceback, threading, logging
+from progress.spinner import Spinner
 
 def setup_logger(name: str, log_file: str, level: int=logging.INFO, encoding_: str="utf-8") -> logging.Logger:
     """To setup as many loggers as I want"""
-    formatter = logging.Formatter('[%(levelname)s] [%(name)s]: %(message)s - %(asctime)s')
+    formatter = logging.Formatter('[%(levelname)s] [%(asctime)s] [%(name)s]: %(message)s')
 
     handler = logging.FileHandler(log_file, encoding= encoding_)
     handler.setFormatter(formatter)
@@ -59,9 +59,8 @@ def song_info(url: str, logger: logging.Logger = None) -> str:
 
     try:
         result.raise_for_status()
-    except HTTPError as e:
-        print(e, '\n')
-        print(f'An error occurred with {url}')
+    except requests.HTTPError as e:
+        logger.error(f'{e}\nAn error occurred with {url}')
         return f'Error - {url}'
 
     soup = bs4.BeautifulSoup(result.text, 'html.parser')
@@ -71,12 +70,24 @@ def song_info(url: str, logger: logging.Logger = None) -> str:
     songName = soup.select('span[dir="auto"]')[0].text
     songAuthor = soup.select('a')[1].text
 
-
     return f'{songName}\t{songAuthor}'
+
+def loading(numOfWaitingThreads: int):
+    spinner = Spinner('loading ')
+    ogThreads = threading.active_count()
+
+    print('Getting songs names from spotify')
+
+    while ogThreads - numOfWaitingThreads != threading.active_count():
+        time.sleep(0.1)
+        spinner.next()
+
+    print()
+    print('loading finished')
 
 def main():
 
-    print('getting songs urls from songsUrl file')
+    print('Getting songs url from text file')
 
     # Get songs url <data> and put them into a list
     with open('songsUrls.txt', 'r') as urlsFile:
@@ -100,8 +111,10 @@ def main():
         threads[i].start()
         start = end
         end += partitionIncreases
-        
-    print('using urls')
+
+    # loading thread to make user know that the program is still working
+    loadingThread = threading.Thread(target= loading, args= [numberOfPartitions], name= 'Thread-loading')
+    loadingThread.start()
 
     # wait until all threads have ended and then add results to songs info list
     songsInfo: list[str] = []
@@ -109,7 +122,9 @@ def main():
         thread.join()
         songsInfo.extend(threadsResults[i])
 
-    print('writing to the songsName file')
+    loadingThread.join()
+    
+    print('Writing songs name to text file')
 
     # write songs info to a file utf-8 encoding because of arabic letters
     with open('songsNames.txt', 'w', encoding= 'utf-8') as namesFile:

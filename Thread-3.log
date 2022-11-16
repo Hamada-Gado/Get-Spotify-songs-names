@@ -1,204 +1,305 @@
-[INFO] [Thread-3]: thread started - 2022-11-15 02:15:10,011
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3xAatUe1dpFXDtzbqiMdiz - 2022-11-15 02:15:10,011
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:10,968
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq - 2022-11-15 02:15:10,983
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:11,941
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2 - 2022-11-15 02:15:11,941
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:13,181
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl - 2022-11-15 02:15:13,181
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:13,950
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF - 2022-11-15 02:15:13,950
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:14,702
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0SbObewB36qKLWcaxMntej - 2022-11-15 02:15:14,702
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:15,299
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe - 2022-11-15 02:15:15,299
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:15,928
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7gGBgh0bVxHPgZjA505bo9 - 2022-11-15 02:15:15,928
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:16,584
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/49MMefftWPcltNP4OOJGSs - 2022-11-15 02:15:16,584
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:17,281
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3X9g3kEOS35gjRDRIwWfr7 - 2022-11-15 02:15:17,281
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:17,854
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3N1McBmL4FxqiHSfKAB413 - 2022-11-15 02:15:17,869
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:18,496
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe - 2022-11-15 02:15:18,496
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:19,207
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1lehjJeIwuFObvhBdD1R0c - 2022-11-15 02:15:19,211
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:19,940
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx - 2022-11-15 02:15:19,955
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:20,682
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw - 2022-11-15 02:15:20,698
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:21,366
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz - 2022-11-15 02:15:21,366
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:22,366
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C - 2022-11-15 02:15:22,370
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:23,164
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ - 2022-11-15 02:15:23,167
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:24,041
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY - 2022-11-15 02:15:24,047
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:25,027
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4NXROG27qc3PGsf6IK5MOD - 2022-11-15 02:15:25,030
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:25,762
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI - 2022-11-15 02:15:25,765
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:26,454
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g - 2022-11-15 02:15:26,454
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:27,118
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO - 2022-11-15 02:15:27,122
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:27,725
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle - 2022-11-15 02:15:27,729
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:28,288
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr - 2022-11-15 02:15:28,288
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:29,451
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM - 2022-11-15 02:15:29,454
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:30,074
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4s9eMbBfWUDtBEFHC7sNp7 - 2022-11-15 02:15:30,074
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:30,832
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6 - 2022-11-15 02:15:30,835
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:31,572
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP - 2022-11-15 02:15:31,575
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:32,298
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G - 2022-11-15 02:15:32,302
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:33,058
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR - 2022-11-15 02:15:33,062
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:33,937
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o - 2022-11-15 02:15:33,937
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:34,986
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb - 2022-11-15 02:15:34,989
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:35,717
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4kTliHBy7w2SOMtm8qMmOW - 2022-11-15 02:15:35,733
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:36,390
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX - 2022-11-15 02:15:36,395
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:37,471
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS - 2022-11-15 02:15:37,474
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:38,162
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H - 2022-11-15 02:15:38,166
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:38,954
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD - 2022-11-15 02:15:38,954
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:39,685
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4JuJZzGcswQszYiKJSnC6i - 2022-11-15 02:15:39,687
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:40,308
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN - 2022-11-15 02:15:40,324
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:41,034
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK - 2022-11-15 02:15:41,037
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:41,678
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP - 2022-11-15 02:15:41,678
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:42,410
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5aSYCqTmfXXNsQOtTqEHq1 - 2022-11-15 02:15:42,410
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:43,268
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD - 2022-11-15 02:15:43,270
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:44,139
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6FmpBDrbKW6T0spUMFTgDC - 2022-11-15 02:15:44,139
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:44,746
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/44r4zta6P9flkhKaVnbsvG - 2022-11-15 02:15:44,761
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:45,426
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG - 2022-11-15 02:15:45,442
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:46,147
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR - 2022-11-15 02:15:46,147
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:46,840
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2BgagqJWYfrKPhz3f5V0Sw - 2022-11-15 02:15:46,856
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:47,574
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf - 2022-11-15 02:15:47,574
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:48,202
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml - 2022-11-15 02:15:48,202
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:48,872
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe - 2022-11-15 02:15:48,872
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:49,512
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20 - 2022-11-15 02:15:49,512
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:50,262
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ - 2022-11-15 02:15:50,262
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:50,950
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV - 2022-11-15 02:15:50,954
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:51,718
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE - 2022-11-15 02:15:51,722
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:52,402
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/282iccj2oRByB7iLZ5Daq2 - 2022-11-15 02:15:52,402
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:53,065
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw - 2022-11-15 02:15:53,081
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:53,798
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a - 2022-11-15 02:15:53,798
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:54,461
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT - 2022-11-15 02:15:54,461
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:55,102
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO - 2022-11-15 02:15:55,105
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:55,795
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb - 2022-11-15 02:15:55,799
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:56,470
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf - 2022-11-15 02:15:56,475
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:57,219
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR - 2022-11-15 02:15:57,224
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:57,883
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR - 2022-11-15 02:15:57,898
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:58,601
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M - 2022-11-15 02:15:58,604
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:15:59,242
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE - 2022-11-15 02:15:59,242
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:00,028
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4 - 2022-11-15 02:16:00,028
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:00,645
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX - 2022-11-15 02:16:00,648
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:01,408
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ - 2022-11-15 02:16:01,408
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:02,038
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP - 2022-11-15 02:16:02,038
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:02,804
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG - 2022-11-15 02:16:02,808
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:03,533
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf - 2022-11-15 02:16:03,549
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:04,284
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK - 2022-11-15 02:16:04,284
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:05,010
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk - 2022-11-15 02:16:05,014
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:05,815
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH - 2022-11-15 02:16:05,819
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:06,520
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF - 2022-11-15 02:16:06,520
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:07,590
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5 - 2022-11-15 02:16:07,594
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:08,323
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5 - 2022-11-15 02:16:08,326
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:09,022
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq - 2022-11-15 02:16:09,022
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:09,902
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h - 2022-11-15 02:16:09,906
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:10,567
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4 - 2022-11-15 02:16:10,571
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:11,227
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu - 2022-11-15 02:16:11,231
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:11,873
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU - 2022-11-15 02:16:11,877
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:12,595
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4wfyFIRnxdIN0v4OGtXcX3 - 2022-11-15 02:16:12,598
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:13,258
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0Gl5s8IhMmQE5YQwM8Qx1J - 2022-11-15 02:16:13,262
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:13,889
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7HU0fgCVI8ZcdCum2bZThz - 2022-11-15 02:16:13,890
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:14,515
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4VZH6OfxPy1nNE7KbtVKyK - 2022-11-15 02:16:14,515
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:15,125
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/10J13D1trETctDdfUg6b5V - 2022-11-15 02:16:15,125
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:15,812
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L - 2022-11-15 02:16:15,812
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:16,582
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1 - 2022-11-15 02:16:16,582
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:17,225
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3id2EVGKc3eFAMn9nFnB0r - 2022-11-15 02:16:17,225
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:17,922
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn - 2022-11-15 02:16:17,938
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:18,604
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y - 2022-11-15 02:16:18,620
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:19,184
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2nkhArYvZzJDIfP4N0dEGv - 2022-11-15 02:16:19,184
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:19,828
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3yxcUuHIQmEh7szOgxECft - 2022-11-15 02:16:19,828
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:20,424
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e - 2022-11-15 02:16:20,424
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:21,049
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS - 2022-11-15 02:16:21,064
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:21,757
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/3aR3hSjA1Vw0GXYmngsJS6 - 2022-11-15 02:16:21,757
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:22,581
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM - 2022-11-15 02:16:22,597
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:23,394
-[INFO] [Thread-3]: Trying to connect to https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G - 2022-11-15 02:16:23,409
-[INFO] [Thread-3]: connected successfully getting song info - 2022-11-15 02:16:24,372
-[INFO] [Thread-3]: thread ended - 2022-11-15 02:16:24,376
+[INFO] [2022-11-15 13:28:34,973] [Thread-3]: thread started
+[INFO] [2022-11-15 13:28:34,973] [Thread-3]: Trying to connect to https://open.spotify.com/track/3xAatUe1dpFXDtzbqiMdiz
+[INFO] [2022-11-15 13:28:36,006] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:36,006] [Thread-3]: Trying to connect to https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq
+[INFO] [2022-11-15 13:28:36,825] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:36,829] [Thread-3]: Trying to connect to https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2
+[INFO] [2022-11-15 13:28:37,506] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:37,506] [Thread-3]: Trying to connect to https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl
+[INFO] [2022-11-15 13:28:38,256] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:38,258] [Thread-3]: Trying to connect to https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF
+[INFO] [2022-11-15 13:28:38,924] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:38,924] [Thread-3]: Trying to connect to https://open.spotify.com/track/0SbObewB36qKLWcaxMntej
+[INFO] [2022-11-15 13:28:39,644] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:39,647] [Thread-3]: Trying to connect to https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe
+[INFO] [2022-11-15 13:28:40,403] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:40,407] [Thread-3]: Trying to connect to https://open.spotify.com/track/7gGBgh0bVxHPgZjA505bo9
+[INFO] [2022-11-15 13:28:41,134] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:41,137] [Thread-3]: Trying to connect to https://open.spotify.com/track/49MMefftWPcltNP4OOJGSs
+[INFO] [2022-11-15 13:28:41,842] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:41,842] [Thread-3]: Trying to connect to https://open.spotify.com/track/3X9g3kEOS35gjRDRIwWfr7
+[INFO] [2022-11-15 13:28:42,713] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:42,715] [Thread-3]: Trying to connect to https://open.spotify.com/track/3N1McBmL4FxqiHSfKAB413
+[INFO] [2022-11-15 13:28:43,425] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:43,425] [Thread-3]: Trying to connect to https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe
+[INFO] [2022-11-15 13:28:44,225] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:44,225] [Thread-3]: Trying to connect to https://open.spotify.com/track/1lehjJeIwuFObvhBdD1R0c
+[INFO] [2022-11-15 13:28:45,328] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:45,333] [Thread-3]: Trying to connect to https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+[INFO] [2022-11-15 13:28:46,580] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:46,585] [Thread-3]: Trying to connect to https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw
+[INFO] [2022-11-15 13:28:47,579] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:47,582] [Thread-3]: Trying to connect to https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz
+[INFO] [2022-11-15 13:28:48,988] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:48,993] [Thread-3]: Trying to connect to https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+[INFO] [2022-11-15 13:28:51,278] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:51,278] [Thread-3]: Trying to connect to https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ
+[INFO] [2022-11-15 13:28:53,980] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:53,986] [Thread-3]: Trying to connect to https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+[INFO] [2022-11-15 13:28:55,386] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:55,389] [Thread-3]: Trying to connect to https://open.spotify.com/track/4NXROG27qc3PGsf6IK5MOD
+[INFO] [2022-11-15 13:28:56,620] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:56,620] [Thread-3]: Trying to connect to https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI
+[INFO] [2022-11-15 13:28:57,520] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:57,524] [Thread-3]: Trying to connect to https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g
+[INFO] [2022-11-15 13:28:58,630] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:58,635] [Thread-3]: Trying to connect to https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO
+[INFO] [2022-11-15 13:28:59,655] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:28:59,659] [Thread-3]: Trying to connect to https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle
+[INFO] [2022-11-15 13:29:00,441] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:00,446] [Thread-3]: Trying to connect to https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr
+[INFO] [2022-11-15 13:29:01,232] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:01,232] [Thread-3]: Trying to connect to https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM
+[INFO] [2022-11-15 13:29:02,299] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:02,303] [Thread-3]: Trying to connect to https://open.spotify.com/track/4s9eMbBfWUDtBEFHC7sNp7
+[INFO] [2022-11-15 13:29:03,280] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:03,284] [Thread-3]: Trying to connect to https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6
+[INFO] [2022-11-15 13:29:04,349] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:04,353] [Thread-3]: Trying to connect to https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP
+[INFO] [2022-11-15 13:29:05,209] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:05,213] [Thread-3]: Trying to connect to https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G
+[INFO] [2022-11-15 13:29:05,970] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:05,974] [Thread-3]: Trying to connect to https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR
+[INFO] [2022-11-15 13:29:06,950] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:06,954] [Thread-3]: Trying to connect to https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o
+[INFO] [2022-11-15 13:29:07,864] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:07,868] [Thread-3]: Trying to connect to https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb
+[INFO] [2022-11-15 13:29:09,318] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:09,323] [Thread-3]: Trying to connect to https://open.spotify.com/track/4kTliHBy7w2SOMtm8qMmOW
+[INFO] [2022-11-15 13:29:12,137] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:12,137] [Thread-3]: Trying to connect to https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX
+[INFO] [2022-11-15 13:29:14,202] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:14,206] [Thread-3]: Trying to connect to https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS
+[INFO] [2022-11-15 13:29:15,294] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:15,300] [Thread-3]: Trying to connect to https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H
+[INFO] [2022-11-15 13:29:16,263] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:16,268] [Thread-3]: Trying to connect to https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD
+[INFO] [2022-11-15 13:29:16,998] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:17,002] [Thread-3]: Trying to connect to https://open.spotify.com/track/4JuJZzGcswQszYiKJSnC6i
+[INFO] [2022-11-15 13:29:17,768] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:17,773] [Thread-3]: Trying to connect to https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN
+[INFO] [2022-11-15 13:29:18,540] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:18,543] [Thread-3]: Trying to connect to https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK
+[INFO] [2022-11-15 13:29:19,287] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:19,291] [Thread-3]: Trying to connect to https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP
+[INFO] [2022-11-15 13:29:20,033] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:20,036] [Thread-3]: Trying to connect to https://open.spotify.com/track/5aSYCqTmfXXNsQOtTqEHq1
+[INFO] [2022-11-15 13:29:20,806] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:20,807] [Thread-3]: Trying to connect to https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD
+[INFO] [2022-11-15 13:29:21,691] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:21,706] [Thread-3]: Trying to connect to https://open.spotify.com/track/6FmpBDrbKW6T0spUMFTgDC
+[INFO] [2022-11-15 13:29:22,506] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:22,506] [Thread-3]: Trying to connect to https://open.spotify.com/track/44r4zta6P9flkhKaVnbsvG
+[INFO] [2022-11-15 13:29:23,359] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:23,364] [Thread-3]: Trying to connect to https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG
+[INFO] [2022-11-15 13:29:24,373] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:24,379] [Thread-3]: Trying to connect to https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR
+[INFO] [2022-11-15 13:29:25,188] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:25,193] [Thread-3]: Trying to connect to https://open.spotify.com/track/2BgagqJWYfrKPhz3f5V0Sw
+[INFO] [2022-11-15 13:29:25,875] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:25,875] [Thread-3]: Trying to connect to https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf
+[INFO] [2022-11-15 13:29:26,738] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:26,741] [Thread-3]: Trying to connect to https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml
+[INFO] [2022-11-15 13:29:27,527] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:27,533] [Thread-3]: Trying to connect to https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe
+[INFO] [2022-11-15 13:29:28,298] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:28,306] [Thread-3]: Trying to connect to https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20
+[INFO] [2022-11-15 13:29:29,111] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:29,111] [Thread-3]: Trying to connect to https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ
+[INFO] [2022-11-15 13:29:29,984] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:29,988] [Thread-3]: Trying to connect to https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV
+[INFO] [2022-11-15 13:29:30,781] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:30,788] [Thread-3]: Trying to connect to https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE
+[INFO] [2022-11-15 13:29:31,632] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:31,636] [Thread-3]: Trying to connect to https://open.spotify.com/track/282iccj2oRByB7iLZ5Daq2
+[INFO] [2022-11-15 13:29:32,544] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:32,548] [Thread-3]: Trying to connect to https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw
+[INFO] [2022-11-15 13:29:33,524] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:33,529] [Thread-3]: Trying to connect to https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a
+[INFO] [2022-11-15 13:29:34,620] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:34,626] [Thread-3]: Trying to connect to https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT
+[INFO] [2022-11-15 13:29:35,562] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:35,562] [Thread-3]: Trying to connect to https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO
+[INFO] [2022-11-15 13:29:37,237] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:37,241] [Thread-3]: Trying to connect to https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb
+[INFO] [2022-11-15 13:29:38,134] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:38,140] [Thread-3]: Trying to connect to https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf
+[ERROR] [2022-11-15 13:29:38,326] [Thread-3]: 503 Server Error: Service Unavailable for url: https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf
+An error occurred with https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf
+[INFO] [2022-11-15 13:29:38,326] [Thread-3]: Trying to connect to https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR
+[INFO] [2022-11-15 13:29:39,057] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:39,057] [Thread-3]: Trying to connect to https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR
+[INFO] [2022-11-15 13:29:39,966] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:39,966] [Thread-3]: Trying to connect to https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M
+[INFO] [2022-11-15 13:29:40,844] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:40,851] [Thread-3]: Trying to connect to https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE
+[INFO] [2022-11-15 13:29:41,671] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:41,674] [Thread-3]: Trying to connect to https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4
+[INFO] [2022-11-15 13:29:42,474] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:42,477] [Thread-3]: Trying to connect to https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX
+[INFO] [2022-11-15 13:29:43,165] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:43,165] [Thread-3]: Trying to connect to https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ
+[INFO] [2022-11-15 13:29:44,016] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:44,031] [Thread-3]: Trying to connect to https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+[INFO] [2022-11-15 13:29:45,032] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:45,032] [Thread-3]: Trying to connect to https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG
+[INFO] [2022-11-15 13:29:45,869] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:45,873] [Thread-3]: Trying to connect to https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+[INFO] [2022-11-15 13:29:46,817] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:46,821] [Thread-3]: Trying to connect to https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK
+[INFO] [2022-11-15 13:29:47,713] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:47,716] [Thread-3]: Trying to connect to https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+[INFO] [2022-11-15 13:29:48,567] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:48,567] [Thread-3]: Trying to connect to https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH
+[INFO] [2022-11-15 13:29:49,370] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:49,370] [Thread-3]: Trying to connect to https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF
+[INFO] [2022-11-15 13:29:50,216] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:50,218] [Thread-3]: Trying to connect to https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5
+[INFO] [2022-11-15 13:29:51,052] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:51,056] [Thread-3]: Trying to connect to https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5
+[INFO] [2022-11-15 13:29:51,984] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:51,984] [Thread-3]: Trying to connect to https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq
+[INFO] [2022-11-15 13:29:52,820] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:52,820] [Thread-3]: Trying to connect to https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h
+[INFO] [2022-11-15 13:29:53,656] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:53,659] [Thread-3]: Trying to connect to https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4
+[INFO] [2022-11-15 13:29:54,419] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:54,419] [Thread-3]: Trying to connect to https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu
+[INFO] [2022-11-15 13:29:55,157] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:55,160] [Thread-3]: Trying to connect to https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU
+[INFO] [2022-11-15 13:29:56,013] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:56,016] [Thread-3]: Trying to connect to https://open.spotify.com/track/4wfyFIRnxdIN0v4OGtXcX3
+[INFO] [2022-11-15 13:29:56,787] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:56,789] [Thread-3]: Trying to connect to https://open.spotify.com/track/0Gl5s8IhMmQE5YQwM8Qx1J
+[INFO] [2022-11-15 13:29:57,623] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:57,626] [Thread-3]: Trying to connect to https://open.spotify.com/track/7HU0fgCVI8ZcdCum2bZThz
+[INFO] [2022-11-15 13:29:58,340] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:58,340] [Thread-3]: Trying to connect to https://open.spotify.com/track/4VZH6OfxPy1nNE7KbtVKyK
+[INFO] [2022-11-15 13:29:59,123] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:29:59,125] [Thread-3]: Trying to connect to https://open.spotify.com/track/10J13D1trETctDdfUg6b5V
+[INFO] [2022-11-15 13:30:00,108] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:00,126] [Thread-3]: Trying to connect to https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L
+[INFO] [2022-11-15 13:30:01,001] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:01,003] [Thread-3]: Trying to connect to https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1
+[INFO] [2022-11-15 13:30:01,940] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:01,940] [Thread-3]: Trying to connect to https://open.spotify.com/track/3id2EVGKc3eFAMn9nFnB0r
+[INFO] [2022-11-15 13:30:02,723] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:02,723] [Thread-3]: Trying to connect to https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn
+[INFO] [2022-11-15 13:30:03,640] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:03,640] [Thread-3]: Trying to connect to https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y
+[INFO] [2022-11-15 13:30:04,363] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:04,366] [Thread-3]: Trying to connect to https://open.spotify.com/track/2nkhArYvZzJDIfP4N0dEGv
+[INFO] [2022-11-15 13:30:05,127] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:05,130] [Thread-3]: Trying to connect to https://open.spotify.com/track/3yxcUuHIQmEh7szOgxECft
+[INFO] [2022-11-15 13:30:05,852] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:05,856] [Thread-3]: Trying to connect to https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+[INFO] [2022-11-15 13:30:06,757] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:06,760] [Thread-3]: Trying to connect to https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+[INFO] [2022-11-15 13:30:07,757] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:07,757] [Thread-3]: Trying to connect to https://open.spotify.com/track/3aR3hSjA1Vw0GXYmngsJS6
+[INFO] [2022-11-15 13:30:08,668] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:08,671] [Thread-3]: Trying to connect to https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+[INFO] [2022-11-15 13:30:09,626] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:09,626] [Thread-3]: Trying to connect to https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G
+[INFO] [2022-11-15 13:30:10,532] [Thread-3]: connected successfully getting song info
+
+[INFO] [2022-11-15 13:30:10,536] [Thread-3]: thread ended
